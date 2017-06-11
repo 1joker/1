@@ -1,0 +1,1 @@
+function fun(){console.log(21)}function fun2(){console.log(2222222222)}fun();var a="123456";module.exports=a,b=require("mokuai1.js"),console.log(b),fun2();
